@@ -10,6 +10,8 @@
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
+<br><br>
+
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 Atualmente sou estudante de Engenharia de Computação pela UFMS;
@@ -21,8 +23,7 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SatYu26&theme=radical)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SatYu26&theme=radical)
 
 <br>
 
