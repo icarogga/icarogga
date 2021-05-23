@@ -7,3 +7,5 @@
     Sou estudante de Engenharia de Computação pela UFMS e venho a um tempo explorando (nem que seja só um pouquinho) várias das vertentes da computação, para então     encontrar aquela área ao qual mais me interesso, e acredito eu que encontrei. Atualmente, venho focando meus esforços em backend, mas não deixando de lado o         front, e sou um grande defensor de que se temos uma área no qual queremos nos especializar, devemos ter a capacidade de ser flexíveis independente da tecnologia     utilizada.
   </em>  
 </p>
+
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
