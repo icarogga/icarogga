@@ -12,7 +12,7 @@
 
 <br>
 
-**TAlgumas coisas sobre mim:**
+**Algumas coisas sobre mim:**
 
 - 👨🏽‍💻 Atualmente sou estudante de Engenharia de Computação pela UFMS;
 - 🌱 Atualmente estou estudando backend com Java e Spring Boot; 
