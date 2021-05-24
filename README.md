@@ -16,7 +16,7 @@
 
 - 👨🏽‍💻 Atualmente sou estudante de Engenharia de Computação pela UFMS;
 - 🌱 Atualmente estou estudando backend com Java e Spring Boot; 
-- 🤔 Meu atual objetivo é conseguir um estágio em backend para desenvolver minha habilidades;
+- 🤔 Meu atual objetivo é conseguir um estágio para desenvolver minhas habilidades profissionais;
 - 💬 Pergunte-me qualquer coisa, ficarei feliz em ajudar;
 - 📫 Meu email é "icarogga@gmail.com", sinta-se livre para entrar em contato.
 - 📝 Meu linkedin é "https://www.linkedin.com/in/%C3%ADcaro-coelho-3a5b60206/", sinta-se livre para entrar em contato.
