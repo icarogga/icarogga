@@ -4,7 +4,7 @@
 
 <p>
   <em>
-    Sou estudante de Engenharia de Computação pela UFMS e venho a um tempo explorando (nem que seja só um pouquinho) várias das vertentes da computação, para então     encontrar aquela área ao qual mais me interesso, e acredito eu que encontrei. Atualmente, venho focando meus esforços em backend, mas não deixando de lado o         front, e sou um grande defensor de que se temos uma área no qual queremos nos especializar, devemos ter a capacidade de ser flexíveis independente da tecnologia     utilizada.
+    Sou estudante de Engenharia de Computação pela UFMS e venho a um tempo explorando (nem que seja só um pouquinho) várias das vertentes da computação, para então encontrar aquelas ao qual mais me interesso, e acredito eu que encontrei. Atualmente, venho focando meus esforços em backend, mas não deixando de lado o front, e grande entusiasta de Inteligência Artificial.
   </em>  
 </p>
 
@@ -15,7 +15,8 @@
 **Algumas coisas sobre mim:**
 
 - 👨🏽‍💻 Atualmente sou estudante de Engenharia de Computação pela UFMS;
-- 🌱 Atualmente estou estudando backend com Java e Spring Boot; 
+- 🌱 Atualmente estou estudando backend com Java e Spring Boot;
+- 🌱 E também estudando IA com TensorFLow;  
 - 🤔 Meu atual objetivo é conseguir um estágio para desenvolver minhas habilidades profissionais;
 - 💬 Pergunte-me qualquer coisa, ficarei feliz em ajudar;
 - 📫 Meu email é "icarogga@gmail.com", sinta-se livre para entrar em contato.
