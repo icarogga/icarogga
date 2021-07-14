@@ -15,8 +15,7 @@
 **Algumas coisas sobre mim:**
 
 - 👨🏽‍💻 Atualmente sou estudante de Engenharia de Computação pela UFMS;
-- 🌱 Atualmente estou estudando backend com Java e Spring Boot;
-- 🌱 E também estudando IA com TensorFLow;  
+- 🌱 Atualmente estou estudando backend com Java/Spring Boot e IA;  
 - 🤔 Meu atual objetivo é conseguir um estágio para desenvolver minhas habilidades profissionais;
 - 💬 Pergunte-me qualquer coisa, ficarei feliz em ajudar;
 - 📫 Meu email é "icarogga@gmail.com", sinta-se livre para entrar em contato.
