@@ -16,7 +16,7 @@
 
 - 👨🏽‍💻 Atualmente sou estudante de Engenharia de Computação pela UFMS;
 - 🌱 Atualmente estou estudando IA com foco na área de Data Science;  
-- 🤔 Meu atual objetivo é conseguir um estágio para desenvolver minhas habilidades profissionais;
+- 🤔 Meu atual objetivo é aprender e me desenvolver como profissional;
 - 💬 Pergunte-me qualquer coisa, ficarei feliz em ajudar;
 - 📫 Meu email é "icarogga@gmail.com", sinta-se livre para entrar em contato.
 - 📝 Meu linkedin é "https://www.linkedin.com/in/%C3%ADcaro-coelho-3a5b60206/", sinta-se livre para entrar em contato.
