@@ -4,7 +4,7 @@
 
 <p>
   <em>
-    Sou estudante de Engenharia de Computação pela UFMS e venho a um tempo explorando (nem que seja só um pouquinho) várias das vertentes da computação, para então encontrar aquela ao qual mais me interesso, e acredito eu que encontrei. Atualmente, venho focando todos meus esforços para iniciar minha carreira em Data Science.
+    Sou estudante de Engenharia de Computação pela UFMS e venho a um tempo explorando (nem que seja só um pouquinho) várias das vertentes da computação, para então encontrar aquela ao qual mais me interesso.
   </em>  
 </p>
 
@@ -15,7 +15,6 @@
 **Algumas coisas sobre mim:**
 
 - 👨🏽‍💻 Atualmente sou estudante de Engenharia de Computação pela UFMS;
-- 🌱 Atualmente estou estudando IA com foco na área de Data Science;  
 - 🤔 Meu atual objetivo é aprender e me desenvolver como profissional;
 - 💬 Pergunte-me qualquer coisa, ficarei feliz em ajudar;
 - 📫 Meu email é "icarogga@gmail.com", sinta-se livre para entrar em contato.
